@@ -22,7 +22,7 @@ You must have the browser driver installed on your system to run this applicatio
 #### 1.1. Clone the repository with:
 
 ``` bash
-git clone https://gitlab.dell.com/qe/perf/finance/sabrix/tools/riverbed-barchart-report-result-collector.git
+git clone https://github.com/cmattosr/Riverbed-Barchart-Report-Result-Collector.git
 ```
 
 #### 1.2. Install the dependencies
